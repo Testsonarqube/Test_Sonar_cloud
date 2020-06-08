@@ -1,0 +1,7 @@
+organization=testsonarqube-1
+projectKey=Testsonarqube_Test_Sonar_cloud
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8487
+dashboardUrl=https://sonarcloud.io/dashboard?id=Testsonarqube_Test_Sonar_cloud
+ceTaskId=AXKTqPH_BKo-1HUA4xHH
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKTqPH_BKo-1HUA4xHH
